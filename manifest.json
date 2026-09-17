@@ -1,0 +1,10 @@
+{
+  "display_name": "Literal <user> Tag",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "User-Teixeira",
+  "version": "1.0.0",
+  "homePage": "https://github.com/User-Teixeira/SillyTavern-LiteralUserTag"
+}
